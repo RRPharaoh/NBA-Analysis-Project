@@ -1,4 +1,4 @@
-# Midterm-Project
+#  NBA statistical Analysis Project
 ## Project/Goals
  - Analyze the correlation between NBA players and the colleges they attended
  - Does the school an NBA player attend impact the success of their professional career?
