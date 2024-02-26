@@ -52,7 +52,7 @@ utilizing historical draft data with selection positions as metric, we were able
  A way to conceptualize this would be trying to deduce whether a player was recruited to a school’s program because they were elite or did they became elite after attending the school’s program.
 
 ## Future Goals
--In the future we'd like to take a deeper dive into individual NBA team's recruitment process, and the intricacies of College Basketball Programs.
+In the future we'd like to take a deeper dive into individual NBA team's recruitment process, and the intricacies of College Basketball Programs.
 Analysis of factors that were excluded from the dataset, such as:
 - Trades
 - Injuries
